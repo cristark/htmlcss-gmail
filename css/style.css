@@ -1,0 +1,87 @@
+/* Generale  */
+
+body {
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    width: 900px;
+    margin: auto;
+    padding: 0;
+    margin-top: 15px;
+    color: white;
+}
+
+hr {
+    color: white;
+}
+
+/* Sezione Header */
+
+.header-logo {
+    margin: auto;
+    margin-bottom: 15px;
+}
+     
+img {
+    width: 100px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.notifiche {
+    font-size: 20px;
+}
+
+.header-logo h2 {
+    display: inline;
+}
+
+.notifiche p {
+    display: inline-block;
+    margin: 15px 0;
+}
+
+#number {
+    background-color: orange;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+/* Sezione Centrale messaggi */
+
+.scuro {
+    background-color: #b4b5b5;
+    padding: 1px 0;
+    border-bottom: 2px solid black;
+}
+
+.chiaro {
+    background-color: #eaeced;
+    padding: 1px 0;
+    border-bottom: 2px solid black;
+}
+
+.star {
+    color: black;
+}
+
+.subject {
+    width: 34%;
+    color: black;
+    display: inline-block;
+}
+
+.object {
+    width: 60%;
+    color: gray;
+    display: inline-block;
+}
+
+/* Sezione footer */
+
+.footer {
+    text-align: center;   
+}
+
+.gmail {
+    font-size: 22px;
+    font-weight: 600;
+}
